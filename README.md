@@ -20,14 +20,14 @@ Além do CRUD completo exigido pelo escopo principal, este front-end entrega fun
 * **Day.js:** Manipulação leve e eficiente de datas e fusos horários.
 * **React Router Dom:** Gerenciamento de navegação e proteção de rotas privadas.
 
-## ⚙️ Variáveis de Ambiente e Configuração
+## Variáveis de Ambiente e Configuração
 
 As instâncias de conexão estão separadas em `src/services/api.ts` apontando para os ambientes de desenvolvimento local:
 
 * `apiAuth` (C#): `http://localhost:5143/api`
 * `apiReservas` (Python): `http://localhost:8000/api`
 
-## 🏁 Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 1. Certifique-se de ter o **Node.js** (v20+) instalado.
 2. Clone este repositório.
